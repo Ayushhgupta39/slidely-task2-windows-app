@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("windows-app"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4ab15e33871a320b827f31114219aa0c73f97b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("windows-app"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("windows-app"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
